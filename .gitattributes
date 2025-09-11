@@ -1,0 +1,12 @@
+# Default
+*                   text=auto
+
+# Source
+*.java              text diff=java
+
+# Documentation
+*.md                text diff=markdown
+*.png               binary
+
+# Configuration
+.gitattributes      text

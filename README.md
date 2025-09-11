@@ -1,0 +1,86 @@
+<h1 align="center">Learn Java</h1>
+
+<p align="center">
+    <br>
+    <img src="assets/java-logo.png" alt="java-logo" width="300" height="300"/>
+    <br>
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://openjdk.org/projects/jdk-updates/">
+        <img src="https://img.shields.io/badge/java-21-B07219?style=flat&logo=openjdk"
+        alt="java-21" /></a>
+    <a href="https://adoptium.net/temurin/releases">
+        <img src="https://img.shields.io/badge/openjdk-temurin-FF1464?style=flat&logo=openjdk"
+        alt="openjdk-temurin" /></a>
+    <a href="./LICENSE.md">
+        <img src="https://img.shields.io/badge/license-mit-lightgreen?style=flat&logo=github"
+        alt="license-mit" /></a>
+    <a href="https://github.com/serbouty/learn-java">
+        <img src="https://img.shields.io/badge/status-active-lightgreen?style=flat&logo=github"
+        alt="status-active" /></a>
+</p>
+
+## About
+
+Overview of the Java programming language with resources provided by [Oracle](https://www.oracle.com/).
+
+## Documentation
+
+- [Learn Java](https://dev.java/learn/)
+- [JDK 21 Documentation](https://docs.oracle.com/en/java/javase/21/)
+
+## Roadmap
+
+### Getting to Know the Language
+
+- [ ] [Java Language Basics](https://dev.java/learn/language-basics/)
+- [ ] [Classes and Objects](https://dev.java/learn/classes-objects/)
+- [ ] [Using Record to Model Immutable Data](https://dev.java/learn/records/)
+- [ ] [Numbers and Strings](https://dev.java/learn/numbers-strings/)
+- [ ] [Inheritance](https://dev.java/learn/inheritance/)
+- [ ] [Interfaces](https://dev.java/learn/interfaces/)
+- [ ] [Generics](https://dev.java/learn/generics/)
+- [ ] [Lambda Expressions](https://dev.java/learn/lambdas/)
+- [ ] [Annotations](https://dev.java/learn/annotations/)
+- [ ] [Packages](https://dev.java/learn/packages/)
+- [ ] [Using Pattern Matching](https://dev.java/learn/pattern-matching/)
+- [ ] [Exceptions](https://dev.java/learn/exceptions/)
+- [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)
+
+### Mastering the API
+
+- [ ] [The Collections Framework](https://dev.java/learn/api/collections-framework/)
+- [ ] [The Stream API](https://dev.java/learn/api/streams/)
+- [ ] [The Java I/O API](https://dev.java/learn/java-io/)
+- [ ] [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
+- [ ] [The Date Time API](https://dev.java/learn/date-time/)
+- [ ] [Regular Expressions](https://dev.java/learn/regex/)
+- [ ] [Introduction to Java Reflection](https://dev.java/learn/introduction_to_java_reflection/)
+- [ ] [The Reflection API](https://dev.java/learn/reflection/)
+- [ ] [Introduction to Method Handles](https://dev.java/learn/introduction_to_method_handles/)
+- [ ] [Fundamentals of Security using JDK Libraries](https://dev.java/learn/security/)
+- [ ] [Virtual Threads](https://dev.java/learn/new-features/virtual-threads/)
+- [ ] [The Foreign Function and Memory API](https://dev.java/learn/ffm/)
+
+### Organizing your Application
+
+- [ ] [Modules](https://dev.java/learn/modules/)
+
+### Getting to know the JVM
+
+- [ ] [The Core JDK Tools]()
+- [ ] [The Monitoring Tools]()
+- [ ] [The Security Tools]()
+- [ ] [The Troubleshooting Tools]()
+- [ ] [Garbage Collection in Java Overview]()
+
+### More Resources
+
+- [ ] [Debugging in Java](https://dev.java/learn/debugging/)
+
+## License
+
+This project is released under [the MIT License](./LICENSE.md).
