@@ -36,7 +36,7 @@ Overview of the Java programming language with resources provided by [Oracle](ht
 
 ### Getting to Know the Language
 
-- [ ] [Java Language Basics](https://dev.java/learn/language-basics/)
+- [x] [Java Language Basics](https://dev.java/learn/language-basics/)
 - [ ] [Classes and Objects](https://dev.java/learn/classes-objects/)
 - [ ] [Using Record to Model Immutable Data](https://dev.java/learn/records/)
 - [ ] [Numbers and Strings](https://dev.java/learn/numbers-strings/)
@@ -45,7 +45,7 @@ Overview of the Java programming language with resources provided by [Oracle](ht
 - [ ] [Generics](https://dev.java/learn/generics/)
 - [ ] [Lambda Expressions](https://dev.java/learn/lambdas/)
 - [ ] [Annotations](https://dev.java/learn/annotations/)
-- [ ] [Packages](https://dev.java/learn/packages/)
+- [x] [Packages](https://dev.java/learn/packages/)
 - [ ] [Using Pattern Matching](https://dev.java/learn/pattern-matching/)
 - [ ] [Exceptions](https://dev.java/learn/exceptions/)
 - [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)
