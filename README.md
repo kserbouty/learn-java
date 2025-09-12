@@ -65,22 +65,6 @@ Overview of the Java programming language with resources provided by [Oracle](ht
 - [ ] [Virtual Threads](https://dev.java/learn/new-features/virtual-threads/)
 - [ ] [The Foreign Function and Memory API](https://dev.java/learn/ffm/)
 
-### Organizing your Application
-
-- [ ] [Modules](https://dev.java/learn/modules/)
-
-### Getting to know the JVM
-
-- [ ] [The Core JDK Tools]()
-- [ ] [The Monitoring Tools]()
-- [ ] [The Security Tools]()
-- [ ] [The Troubleshooting Tools]()
-- [ ] [Garbage Collection in Java Overview]()
-
-### More Resources
-
-- [ ] [Debugging in Java](https://dev.java/learn/debugging/)
-
 ## License
 
 This project is released under [the MIT License](./LICENSE.md).
