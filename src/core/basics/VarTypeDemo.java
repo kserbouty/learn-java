@@ -14,7 +14,7 @@ public class VarTypeDemo {
 
         VarTypeDemo demo = new VarTypeDemo();
 
-        // var type identifier since JA SE 10
+        // var type identifier since Java SE 10
         var message = "Hello world! \n";
         demo.logger.info(message);
 
