@@ -25,12 +25,12 @@
 
 ## About
 
-Overview of the Java programming language with resources provided by [Oracle](https://www.oracle.com/).
+Overview of the Java programming language with resources from [Oracle](https://dev.java/learn/)'s learning platform.
 
 ## Documentation
 
-- [Learn Java](https://dev.java/learn/)
-- [JDK 21 Documentation](https://docs.oracle.com/en/java/javase/21/)
+- [Learn Java (Oracle)](https://dev.java/learn/)
+- [JDK 21 Documentation (Oracle)](https://docs.oracle.com/en/java/javase/21/)
 
 ## Roadmap
 
@@ -46,25 +46,17 @@ Overview of the Java programming language with resources provided by [Oracle](ht
 - [ ] [Lambda Expressions](https://dev.java/learn/lambdas/)
 - [ ] [Annotations](https://dev.java/learn/annotations/)
 - [x] [Packages](https://dev.java/learn/packages/)
-- [ ] [Using Pattern Matching](https://dev.java/learn/pattern-matching/)
 - [ ] [Exceptions](https://dev.java/learn/exceptions/)
 - [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)
 
 ### Mastering the API
 
-- [ ] [The Collections Framework](https://dev.java/learn/api/collections-framework/)
-- [ ] [The Stream API](https://dev.java/learn/api/streams/)
 - [ ] [The Java I/O API](https://dev.java/learn/java-io/)
 - [ ] [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 - [ ] [The Date Time API](https://dev.java/learn/date-time/)
 - [ ] [Regular Expressions](https://dev.java/learn/regex/)
-- [ ] [Introduction to Java Reflection](https://dev.java/learn/introduction_to_java_reflection/)
-- [ ] [The Reflection API](https://dev.java/learn/reflection/)
-- [ ] [Introduction to Method Handles](https://dev.java/learn/introduction_to_method_handles/)
 - [ ] [Fundamentals of Security using JDK Libraries](https://dev.java/learn/security/)
-- [ ] [Virtual Threads](https://dev.java/learn/new-features/virtual-threads/)
-- [ ] [The Foreign Function and Memory API](https://dev.java/learn/ffm/)
 
 ## License
 
-This project is released under [the MIT License](./LICENSE.md).
+This project is released under the [MIT License](./LICENSE.md).
