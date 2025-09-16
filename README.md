@@ -37,7 +37,7 @@ Overview of the Java programming language with resources from [Oracle](https://d
 ### Getting to Know the Language
 
 - [x] [Java Language Basics](https://dev.java/learn/language-basics/)
-- [ ] [Classes and Objects](https://dev.java/learn/classes-objects/)
+- [x] [Classes and Objects](https://dev.java/learn/classes-objects/)
 - [ ] [Using Record to Model Immutable Data](https://dev.java/learn/records/)
 - [ ] [Numbers and Strings](https://dev.java/learn/numbers-strings/)
 - [ ] [Inheritance](https://dev.java/learn/inheritance/)
