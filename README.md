@@ -25,7 +25,7 @@
 
 ## About
 
-Overview of the Java programming language with resources from [Oracle](https://dev.java/learn/)'s learning platform.
+Overview of the Java programming language with resources from [Oracle](https://dev.java/learn/) learning platform.
 
 ## Documentation
 
