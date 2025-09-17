@@ -1,13 +1,9 @@
 package core.numbers;
 
-import java.util.logging.Logger;
-
 /**
  * Numbers and Strings.
  */
 class TrigonometricDemo {
-
-    Logger logger = Logger.getLogger(getClass().getName());
 
     public static void main(String[] args) {
 

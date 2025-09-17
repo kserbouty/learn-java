@@ -1,14 +1,11 @@
 package core.numbers;
 
 import java.util.Random;
-import java.util.logging.Logger;
 
 /**
  * Numbers and Strings.
  */
 class RandomDemo {
-
-    Logger logger = Logger.getLogger(getClass().getName());
 
     public static void main(String[] args) {
 
