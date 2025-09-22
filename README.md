@@ -25,17 +25,16 @@
 
 ## About
 
-Overview of the Java programming language with resources from [Oracle](https://dev.java/learn/) learning platform.
+Overview of the Java programming language, with resources provided by [Oracle](https://dev.java/learn/).
 
-## Documentation
+## Support
 
 - [Learn Java (Oracle)](https://dev.java/learn/)
-- [JDK 21 Documentation (Oracle)](https://docs.oracle.com/en/java/javase/21/)
+- [Java SE 21 & JDK 21 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/21/)
 
 ## Roadmap
 
-### Getting to Know the Language
-
+- [x] [Objects, Classes, Interfaces, Packages, and Inheritance](https://dev.java/learn/oop/)
 - [x] [Java Language Basics](https://dev.java/learn/language-basics/)
 - [x] [Classes and Objects](https://dev.java/learn/classes-objects/)
 - [x] [Using Record to Model Immutable Data](https://dev.java/learn/records/)
@@ -48,14 +47,11 @@ Overview of the Java programming language with resources from [Oracle](https://d
 - [x] [Packages](https://dev.java/learn/packages/)
 - [ ] [Exceptions](https://dev.java/learn/exceptions/)
 - [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)
-
-### Mastering the API
-
 - [ ] [The Java I/O API](https://dev.java/learn/java-io/)
 - [ ] [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
 - [ ] [The Date Time API](https://dev.java/learn/date-time/)
-- [ ] [Regular Expressions](https://dev.java/learn/regex/)
 - [ ] [Fundamentals of Security using JDK Libraries](https://dev.java/learn/security/)
+- [ ] [Debugging in Java](https://dev.java/learn/debugging/)
 
 ## License
 
