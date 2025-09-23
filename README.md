@@ -41,7 +41,7 @@ Overview of the Java programming language, with resources provided by [Oracle](h
 - [x] [Numbers and Strings](https://dev.java/learn/numbers-strings/)
 - [x] [Inheritance](https://dev.java/learn/inheritance/)
 - [x] [Interfaces](https://dev.java/learn/interfaces/)
-- [ ] [Generics](https://dev.java/learn/generics/)
+- [x] [Generics](https://dev.java/learn/generics/)
 - [ ] [Lambda Expressions](https://dev.java/learn/lambdas/)
 - [ ] [Annotations](https://dev.java/learn/annotations/)
 - [x] [Packages](https://dev.java/learn/packages/)
