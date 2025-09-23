@@ -39,7 +39,7 @@ Overview of the Java programming language, with resources provided by [Oracle](h
 - [x] [Classes and Objects](https://dev.java/learn/classes-objects/)
 - [x] [Using Record to Model Immutable Data](https://dev.java/learn/records/)
 - [x] [Numbers and Strings](https://dev.java/learn/numbers-strings/)
-- [ ] [Inheritance](https://dev.java/learn/inheritance/)
+- [x] [Inheritance](https://dev.java/learn/inheritance/)
 - [ ] [Interfaces](https://dev.java/learn/interfaces/)
 - [ ] [Generics](https://dev.java/learn/generics/)
 - [ ] [Lambda Expressions](https://dev.java/learn/lambdas/)
