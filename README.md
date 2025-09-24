@@ -27,7 +27,7 @@
 
 Overview of the Java programming language, with resources provided by [Oracle](https://dev.java/learn/).
 
-## Support
+## Resources
 
 - [Learn Java (Oracle)](https://dev.java/learn/)
 - [Java SE 21 & JDK 21 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/21/)
