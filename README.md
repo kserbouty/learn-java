@@ -43,7 +43,7 @@ Overview of the Java programming language, with resources provided by [Oracle](h
 - [x] [Interfaces](https://dev.java/learn/interfaces/)
 - [x] [Generics](https://dev.java/learn/generics/)
 - [x] [Lambda Expressions](https://dev.java/learn/lambdas/)
-- [ ] [Annotations](https://dev.java/learn/annotations/)
+- [x] [Annotations](https://dev.java/learn/annotations/)
 - [x] [Packages](https://dev.java/learn/packages/)
 - [ ] [Exceptions](https://dev.java/learn/exceptions/)
 - [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)
