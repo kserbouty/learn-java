@@ -16,11 +16,11 @@
         <img src="https://img.shields.io/badge/openjdk-temurin-FF1464?style=flat&logo=openjdk"
         alt="openjdk-temurin" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-lightgreen?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-lightblue?style=flat&logo=github"
         alt="license-mit" /></a>
     <a href="https://github.com/serbouty/learn-java">
-        <img src="https://img.shields.io/badge/status-active-lightgreen?style=flat&logo=github"
-        alt="status-active" /></a>
+        <img src="https://img.shields.io/badge/status-complete-lightblue?style=flat&logo=github"
+        alt="status-complete" /></a>
 </p>
 
 ## About
@@ -46,12 +46,6 @@ Overview of the Java programming language, with resources provided by [Oracle](h
 - [x] [Annotations](https://dev.java/learn/annotations/)
 - [x] [Packages](https://dev.java/learn/packages/)
 - [x] [Exceptions](https://dev.java/learn/exceptions/)
-- [ ] [Refactoring from the Imperative to the Functional Style](https://dev.java/learn/refactoring-to-functional-style/)
-- [ ] [The Java I/O API](https://dev.java/learn/java-io/)
-- [ ] [Common I/O Tasks in Modern Java](https://dev.java/learn/modernio/)
-- [ ] [The Date Time API](https://dev.java/learn/date-time/)
-- [ ] [Fundamentals of Security using JDK Libraries](https://dev.java/learn/security/)
-- [ ] [Debugging in Java](https://dev.java/learn/debugging/)
 
 ## License
 
