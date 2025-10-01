@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://openjdk.org/projects/jdk-updates/">
-        <img src="https://img.shields.io/badge/java-21-B07219?style=flat&logo=openjdk"
-        alt="java-21" /></a>
+        <img src="https://img.shields.io/badge/java-25-B07219?style=flat&logo=openjdk"
+        alt="java-25" /></a>
     <a href="https://adoptium.net/temurin/releases">
-        <img src="https://img.shields.io/badge/openjdk-temurin-FF1464?style=flat&logo=openjdk"
-        alt="openjdk-temurin" /></a>
+        <img src="https://img.shields.io/badge/jdk-temurin-FF1464?style=flat&logo=openjdk"
+        alt="jdk-temurin" /></a>
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-lightblue?style=flat&logo=github"
         alt="license-mit" /></a>
@@ -30,7 +30,7 @@ Overview of the Java programming language, with resources provided by [Oracle](h
 ## Resources
 
 - [Learn Java (Oracle)](https://dev.java/learn/)
-- [Java SE 21 & JDK 21 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/21/)
+- [Java SE 25 & JDK 25 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html)
 
 ## Roadmap
 
