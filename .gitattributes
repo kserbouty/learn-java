@@ -1,13 +1,13 @@
-# Default
+### Default ###
 *                   text=auto
 
-# Scripts
+### Scripts ###
 *.java              text diff=java
 
-# Configuration
+### Configuration ###
 .gitattributes      text
 .gitignore          text
 
-# Documentation
+### Documentation ###
 *.md                text diff=markdown
 *.png               binary
