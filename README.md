@@ -12,9 +12,6 @@
     <a href="https://openjdk.org/projects/jdk-updates/">
         <img src="https://img.shields.io/badge/java-17-B07219?style=flat&logo=openjdk"
         alt="java-17" /></a>
-    <a href="https://adoptium.net/temurin/releases">
-        <img src="https://img.shields.io/badge/jdk-temurin-FF1464?style=flat&logo=openjdk"
-        alt="jdk-temurin" /></a>
     <a href="./LICENSE.md">
         <img src="https://img.shields.io/badge/license-mit-darkblue?style=flat&logo=github"
         alt="license-mit" /></a>
